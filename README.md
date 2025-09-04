@@ -3,7 +3,9 @@ Lab 1 is focused on designing and implementing an 8 to 1 mux using the Vivado so
 
 **Instructions:**
 1) Open Vivado software and create new project
-2) Create and implement source files for all 3 modelings along with their testbenches.
-3) Now you can run compilation, synthesis, implementation and generating bit stream.
-4) Make sure to observe waveform and analyze area utilization for each model
-5) Finally test your FPGA board with the correct pins 
+2) Create and implement source files and testbenches for all 3 modelings and run the simulations
+3) Once simulation is complete you will be able to see the waveforms
+4) Then create the constrinats file (XDC) and map the physical pins to your inputs, select lines and ouput
+6) Now you can run compilation, synthesis, implementation and generating bit stream.
+7) Make sure to  analyze area utilization for each model
+8) Finally test your FPGA board with the correct pins 
